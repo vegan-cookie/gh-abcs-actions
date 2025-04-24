@@ -1,3 +1,5 @@
+Test statement added for lab01
+
 # 1 - Introduction to GitHub Actions
 In this lab you will update and run your first workflow.
 > Duration: 5-10 minutes
